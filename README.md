@@ -34,3 +34,6 @@
 Built using ideas and exports from Bolt.new (Bolt AI). See Bolt docs for exporting code and deployment options.
 
 ---
+
+ALL CREDIT GOES TO THE RESPECTED PERSON AND BOLT.AI
+
